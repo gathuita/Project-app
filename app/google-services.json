@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623356612200",
+    "project_id": "project1-e4f36",
+    "storage_bucket": "project1-e4f36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623356612200:android:2bede6d2342ec4e68bb5dd",
+        "android_client_info": {
+          "package_name": "com.example.loan.ticktok.facebook.project1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623356612200-qpcos1a9rjjbc765o838mmgg2ol4d4c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivFHJ_xdsehLUaO612DnbaPNtVCLi7NQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623356612200-qpcos1a9rjjbc765o838mmgg2ol4d4c5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
